@@ -1,0 +1,88 @@
+nav.navbar{
+    border-bottom: thick solid#D69A00;
+     
+}
+
+.bg-silver {
+    background-color: slategray;
+}
+
+.container {
+    text-align: left;
+}
+
+h1 {
+    color: white;
+    background-color: #D69A00;
+    font-size: large;
+}
+
+.mainContainer {
+    background-color: white;
+    max-width: 800px;
+    max-height: 800px;
+    text-align: center;
+    
+}
+
+body{
+    background-color: #00482B;
+}
+
+.gold {
+    color:#D69A00;
+}
+
+
+.nav-link {
+    color: black;
+    font-weight: bold;
+    
+}
+
+
+h2.contact {
+    color: #D69A00;
+}
+
+.copyright {
+    border-top: thick solid #D69A00;
+    background-color: rgba(0, 0, 0, .2);
+    position: sticky bottom;
+}
+
+footer#p {
+    float: center;
+
+}
+
+h5{
+    text-align: center;
+    opacity: .4;
+}
+.col#image {
+    width: 200px;
+    height: 200px;
+    margin: 5;
+    
+}
+
+.aboutContainer#img {
+    width: 185px;
+    height: 140px;
+}
+
+.aboutContainer#p {
+    width: 300px;
+    height: 300px;
+}
+
+.aboutContainer1 {
+    text-align: justify;
+}
+
+#mainContactContainer {
+    max-width: 820;
+    max-height: 410px;
+    margin-left: 2%;
+}
