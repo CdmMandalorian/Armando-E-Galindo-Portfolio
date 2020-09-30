@@ -27,8 +27,32 @@ body{
 
 img {
   padding: 5%;
+  max-width: 420px;
+  max-height: 420px;
+  
 }
 
+h4.gold {
+  padding-left: 2%;
+}
+
+.infoCont {
+  display: flex;
+}
+
+.ghubRepoLink {
+  padding-left: 7%;
+  
+}
+
+a {
+  color:#D69A00
+}
+
+.deployedLink{
+  padding-left: 17%;
+  color:#D69A00
+}
 
 .nav-link {
     color: black;
