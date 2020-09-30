@@ -1,0 +1,195 @@
+nav.navbar{
+    border-bottom: thick solid#D69A00;
+     
+}
+
+.bg-silver {
+    background-color: slategray;
+}
+
+
+h1 {
+    background-color: #D69A00;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+h1.text-info{
+  color: #D69A00 !important;
+  background-color: white !important;
+  font-size: 22px;
+}
+
+
+body{
+   background-color: #00482B;
+}
+
+.gold {
+    color:#D69A00;
+}
+
+
+.nav-link {
+    color: black;
+    font-weight: bold;
+    
+}
+
+.row.taller-row{
+  height: 25px;
+}
+
+
+
+div.copyright {
+    border-top: thick solid #D69A00;
+    background-color: rgba(0, 0, 0, .2);
+    position: sticky bottom;
+}
+
+footer#p {
+    float: center;
+    position: sticky bottom;
+}
+footer {
+    position: fixed;
+    bottom: -17px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+h5{
+    text-align: center;
+    opacity: .4;
+}
+
+div.container {
+  max-width: 890px;
+}
+
+div.col-sm-6 {
+    text-align: justify;
+    margin-left: 5%;
+}
+div.col-lg-7.col-10.bg-light {
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+img.img-fluid {
+  margin-left: 2%;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+div.col-sm-12.pt-4 {
+  text-align: justify;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  .wrapper {
+    
+    width: 1024px;
+  
+    
+    margin: 40px auto;
+  }
+  
+  #main-content,
+  #sidebar {
+    
+    width: 500px;
+    padding: 30px;
+  }
+  
+  #main-content {
+    
+    float: left;
+  
+    
+    background: #fff;
+  }
+  
+  #sidebar {
+    
+    float: right;
+  
+    
+    background: #eee;
+  }
+  
+  @media screen and (max-width: 768px) {
+    body {
+   background-color: #00482B;
+    }
+  
+    .wrapper {
+      
+      width: 100%;
+      padding: 20px;
+    }
+  
+    #main-content,
+    #sidebar {
+      width: 100%;
+    }
+  
+    #sidebar {
+      margin-top: 40px;
+    }
+  }
+  
+  @media screen and (max-width: 400px) {
+    body {
+   background-color: #00482B;
+    }
+  
+    .wrapper {
+      
+      width: 100%;
+      padding: 20px;
+    }
+  
+    #main-content,
+    #sidebar {
+      width: 100%;
+    }
+  
+    #sidebar {
+      margin-top: 40px;
+    }
+  }
+  
+  
+  @media screen and (max-width: 992px) {
+    body {
+        background-color: #00482B;
+      
+    }
+  
+    .wrapper {
+      
+      width: 100%;
+      padding: 20px;
+    }
+  
+    #main-content,
+    #sidebar {
+      width: 100%;
+    }
+  
+    #sidebar {
+      margin-top: 40px;
+    }
+  }
+  
