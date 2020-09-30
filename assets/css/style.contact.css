@@ -9,13 +9,14 @@ nav.navbar{
 
 section.mainContainer, div.mainContactContainer {
 background-color: white;
-max-width: 420px;
+max-width: 480px;
 max-height: 1000px;
 border-top-left-radius: 10px;
 border-bottom-left-radius: 10px;
 border-top-right-radius: 10px;
 border-bottom-right-radius: 10px;
 margin-left: 10%;
+padding-right: 4%;
 }
 
 h1 {
@@ -50,6 +51,7 @@ h3.gold {
   font-weight: bold;
   font-size: 22px;
   margin-left: 2%;
+  padding-top: 2%;
 }
 
 form {
@@ -58,6 +60,23 @@ form {
 
 label {
   display: block;
+}
+
+.socialCont {
+  text-align: center;
+  padding: 2%;
+}
+
+i.fab.fa-github-square.fa-2x.social {
+  padding: 2%;
+}
+
+i.fab.fa-linkedin.fa-2x.social {
+  padding: 2%;
+}
+
+i.fa.fa-envelope-square.fa-2x.social {
+  padding: 2%;
 }
 
 div.copyright {
