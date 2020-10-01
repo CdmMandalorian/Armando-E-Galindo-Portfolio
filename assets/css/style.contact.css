@@ -201,5 +201,8 @@ h5{
     #sidebar {
       margin-top: 40px;
     }
+    .container{
+      margin-left: -17px;
+    }
   }
   
