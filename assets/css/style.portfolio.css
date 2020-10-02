@@ -29,11 +29,16 @@ img {
   padding: 5%;
   max-width: 420px;
   max-height: 420px;
+  padding-left: 33%;
   
 }
 
+h2.gold{
+  margin-left: 2%;
+}
+
 h4.gold {
-  padding-left: 2%;
+  padding-left: 8%;
 }
 
 .infoCont {
@@ -41,8 +46,8 @@ h4.gold {
 }
 
 .ghubRepoLink {
-  padding-left: 7%;
-  
+  padding-left: 9%;
+
 }
 
 a {
@@ -50,7 +55,7 @@ a {
 }
 
 .deployedLink{
-  padding-left: 17%;
+  padding-left: 14%;
   color:#D69A00
 }
 
@@ -180,6 +185,11 @@ h5{
   
     #sidebar {
       margin-top: 40px;
+    }
+    img{
+      max-width: 345px;
+      height: 210px;
+      margin-left: -60px;
     }
   }
   

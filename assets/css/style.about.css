@@ -7,6 +7,9 @@ nav.navbar{
     background-color: slategray;
 }
 
+div.mainContactContainer{
+  margin-left: 30%;
+}
 
 h1 {
     background-color: #D69A00;
