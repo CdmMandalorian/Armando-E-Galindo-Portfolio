@@ -18,7 +18,7 @@ h1 {
 
 
 body{
-   background-color: #00482B;
+   background-color: #1a2930;
 }
 
 .gold {
@@ -60,7 +60,7 @@ a {
 }
 
 .nav-link {
-    color: black;
+    color: #0A1612;
     font-weight: bold;
     
 }
@@ -125,7 +125,7 @@ h5{
   
   @media screen and (max-width: 768px) {
     body {
-   background-color: #00482B;
+   background-color: #1a2930;
     }
   
     .wrapper {
@@ -146,7 +146,7 @@ h5{
   
   @media screen and (max-width: 400px) {
     body {
-   background-color: #00482B;
+   background-color: #1a2930;
     }
   
     .wrapper {
@@ -168,7 +168,7 @@ h5{
   
   @media screen and (max-width: 992px) {
     body {
-        background-color: #00482B;
+        background-color: #1a2930;
       
     }
   

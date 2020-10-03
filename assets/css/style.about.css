@@ -25,7 +25,7 @@ h1.text-info{
 
 
 body{
-   background-color: #00482B;
+   background-color: #1a2930;
 }
 
 .gold {
@@ -34,7 +34,7 @@ body{
 
 
 .nav-link {
-    color: black;
+    color: #0A1612;
     font-weight: bold;
     
 }
@@ -133,7 +133,7 @@ div.col-sm-12.pt-4 {
   
   @media screen and (max-width: 768px) {
     body {
-   background-color: #00482B;
+   background-color: #1a2930;
     }
   
     .wrapper {
@@ -157,7 +157,7 @@ div.col-sm-12.pt-4 {
   
   @media screen and (max-width: 400px) {
     body {
-   background-color: #00482B;
+   background-color: #1a2930;
     }
   
     .wrapper {
@@ -182,7 +182,7 @@ div.col-sm-12.pt-4 {
   
   @media screen and (max-width: 992px) {
     body {
-        background-color: #00482B;
+        background-color: #1a2930;
       
     }
   
