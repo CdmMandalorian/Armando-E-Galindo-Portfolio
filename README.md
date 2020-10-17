@@ -42,7 +42,7 @@ none
 ## 7. Questions
 Please visit my GitHub to view all of my work:
 
-https://www.github.com/cdmMandalorian@github.com 
+https://github.com/CdmMandalorian?tab=repositories
 
 Made by Armando Emmanuel Galindo
 
