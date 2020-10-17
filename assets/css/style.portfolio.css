@@ -85,7 +85,7 @@ footer {
 
 h5{
     text-align: center;
-    opacity: .4;
+    opacity: .9;
 }
 
 * {
@@ -190,6 +190,10 @@ h5{
       max-width: 345px;
       height: 210px;
       margin-left: -60px;
+    }
+    .nav{
+      display: inline-flex;
+      font-size: 13px;
     }
   }
   

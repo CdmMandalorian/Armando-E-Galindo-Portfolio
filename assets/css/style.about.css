@@ -65,7 +65,7 @@ footer {
 
 h5{
     text-align: center;
-    opacity: .4;
+    opacity: .9;
 }
 
 div.container {
@@ -210,6 +210,10 @@ div.col-sm-12.pt-4 {
     }
     div.container{
     max-width: 750px;
+    }
+    .nav{
+      display: inline-flex;
+      font-size: 13px;
     }
   }
   

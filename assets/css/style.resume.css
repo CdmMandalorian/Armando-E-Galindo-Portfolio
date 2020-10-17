@@ -7,24 +7,20 @@ nav.navbar{
     background-color: slategray;
 }
 
-section.mainContainer, div.mainContactContainer {
-background-color: white;
-max-width: 480px;
-max-height: 1000px;
-border-top-left-radius: 10px;
-border-bottom-left-radius: 10px;
-border-top-right-radius: 10px;
-border-bottom-right-radius: 10px;
-margin-left: 28%;
-padding-right: 4%;
+div.mainContactContainer{
+  margin-left: 30%;
 }
 
 h1 {
-    color: white;
     background-color: #D69A00;
-    font-size: large;
+    color: white;
     font-size: 25px;
     font-weight: bold;
+}
+h1.text-info{
+  color: #D69A00 !important;
+  background-color: white !important;
+  font-size: 22px;
 }
 
 
@@ -47,37 +43,7 @@ body{
   height: 25px;
 }
 
-h3.gold {
-  font-weight: bold;
-  font-size: 22px;
-  margin-left: 2%;
-  padding-top: 2%;
-}
 
-form {
-  padding-left: 5%;
-}
-
-label {
-  display: block;
-}
-
-.socialCont {
-  text-align: center;
-  padding: 2%;
-}
-
-i.fab.fa-github-square.fa-2x.social {
-  padding: 2%;
-}
-
-i.fab.fa-linkedin.fa-2x.social {
-  padding: 2%;
-}
-
-i.fa.fa-envelope-square.fa-2x.social {
-  padding: 2%;
-}
 
 div.copyright {
     border-top: thick solid #D69A00;
@@ -102,41 +68,23 @@ h5{
     opacity: .9;
 }
 
+div.resumeCont {
+  width: 980px;
+  height: 790px;
+  background-color: white;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin: auto;
+}
 
-* {
-    box-sizing: border-box;
-  }
-  
-  .wrapper {
-    
-    width: 1024px;
-  
-    
-    margin: 40px auto;
-  }
-  
-  #main-content,
-  #sidebar {
-    
-    width: 500px;
-    padding: 30px;
-  }
-  
-  #main-content {
-    
-    float: left;
-  
-    
-    background: #fff;
-  }
-  
-  #sidebar {
-    
-    float: right;
-  
-    
-    background: #eee;
-  }
+iframe{
+  margin-left: 5%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
   
   @media screen and (max-width: 768px) {
     body {
@@ -156,6 +104,9 @@ h5{
   
     #sidebar {
       margin-top: 40px;
+    }
+    div.container{
+      max-width: 650px;
     }
   }
   
@@ -177,6 +128,9 @@ h5{
   
     #sidebar {
       margin-top: 40px;
+    }
+    div.container{
+      max-width: 380px;
     }
   }
   
@@ -201,13 +155,18 @@ h5{
     #sidebar {
       margin-top: 40px;
     }
-    .container{
-      margin-left: -70px;
+    
+    div.resumeCont{
+    max-width: 340px;
+    }
+    iframe{
+      max-width: 320px;
+      margin-left: 3%;
+      max-height: 750px;
     }
     .nav{
       display: inline-flex;
       font-size: 13px;
     }
-
   }
   
