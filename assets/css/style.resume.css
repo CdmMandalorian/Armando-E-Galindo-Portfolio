@@ -79,7 +79,7 @@ div.resumeCont {
   margin: auto;
 }
 
-iframe{
+embed{
   margin-left: 5%;
   margin-top: 2%;
   margin-bottom: 2%;
@@ -159,7 +159,7 @@ iframe{
     div.resumeCont{
     max-width: 340px;
     }
-    iframe{
+    embed{
       max-width: 320px;
       margin-left: 3%;
       max-height: 750px;
