@@ -64,7 +64,7 @@ Contact me at: egalindounited@gmail.com
 
   
 ## Portfolio:  
-[Armando Galindo Portfolio](https://cdmmandalorian.github.io/Armando-E-Galindo-Portfolio/)
+[Armando Galindo Portfolio](https://aeg-portfolio.herokuapp.com/)
 
 ## Credits:  
 
