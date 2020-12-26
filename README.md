@@ -51,13 +51,13 @@ Made by Armando Emmanuel Galindo
 Contact me at: egalindounited@gmail.com
 
 ## Screenshots of Portfolio:
-<img src="/assets/images/aegPortfolioAboutSS.png">
-<img src="/assets/images/aegPortfolioResumeSS.png">
-<img src="/assets/images/aegPortfolioPortCollecttSS.png">
-<img src="/assets/images/aegPortfolioContactSS.png">
+<img src="./assets/images/aegPortfolioAboutSS.png">
+<img src="./assets/images/aegPortfolioResumeSS.png">
+<img src="./assets/images/aegPortfolioPortCollecttSS.png">
+<img src="./assets/images/aegPortfolioContactSS.png">
 
 ## Screenshots of MagicMirror:
-<img src="/assets/images/magicMirrorScreenshot10-16-20.png">
+<img src="./assets/images/magicMirrorScreenshot10-16-20.png">
 
 ## Repository:  
 [Armando Galindo Portfolio](https://github.com/CdmMandalorian/Armando-E-Galindo-Portfolio)  
